@@ -1,5 +1,7 @@
 # CryptoTrack SaaS - MERN Wallet Tracker
 
+Built by [VisionQuantech](https://visionquantech.com) — AI agents, apps & tools for small businesses.
+
 A production-ready SaaS for tracking Bitcoin and Ethereum wallets. Features include real-time balance fetching, transaction history, and a freemium monetization model.
 
 ## 🚀 Features
